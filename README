@@ -11,7 +11,7 @@ Running the script on all four Terminator trailer:
 Gave the following retult:
   - https://s27.postimg.org/nuoeso3dv/Terminator.png
 
-Running the script on video with some motion gave:
+Running the script on video with some motion:
   - https://www.youtube.com/watch?v=oHG6j_CZLNc
 
 I ran the script and divide each frame by 50 rows by entering '-r 50' to the script, And it gave the following result: (we can see the bear movement)

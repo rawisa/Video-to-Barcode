@@ -9,11 +9,10 @@ Running the script on all four Terminator trailer:
   - https://www.youtube.com/watch?v=_cEOqHFrQso&t=15s
   - https://www.youtube.com/watch?v=oS9orFK0sJo&t=27s
 Gave the following retult:
-![image](https://s27.postimg.org/nuoeso3dv/Terminator.png)
+  - https://s27.postimg.org/nuoeso3dv/Terminator.png
 
 Running the script on video with some motion gave:
   - https://www.youtube.com/watch?v=oHG6j_CZLNc
 
 I ran the script and divide each frame by 50 rows by entering '-r 50' to the script, And it gave the following result: (we can see the bear movement)
-
-![image2]("SampleVideo_1280x720_1mb_50.jpg")
+  - https://s30.postimg.org/l8t40d98x/Sample_Video_1280x720_1mb_50.jpg
